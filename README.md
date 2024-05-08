@@ -4,4 +4,4 @@ is its nature and wilderness. So I decided to make a campground scene
 with mountains, trees, cabins, bonfire, and bear.
 
 
-Check it out: https://lhan0903.github.io/beautiful-bc/
+Check it out here: https://lhan0903.github.io/beautiful-bc/
